@@ -1,5 +1,33 @@
 h1{
-    font-size: 48px;
-    background-color:blanchedalmond
     
+    font-size: 48px;
+    background-color:rgb(182, 151, 104)
+    
+}
+.zero{
+    background-color: rgb(211, 202, 233);
+    color:rgb(78, 236, 236);
+}
+.one{
+  background-color: rgb(113, 112, 170);
+  color:rgb(154, 241, 187);  
+}
+.two{
+    background-color: rgb(138, 179, 165);
+    color:rgb(209, 182, 245);
+}
+.three{
+    background-color: rgb(238, 250, 174);
+    color:rgb(180, 66, 146);
+}
+.four{
+    background-color: rgb(211, 170, 190);
+    color:rgb(139, 9, 0);
+}
+.five{
+    background-color: rgb(190, 238, 210);
+    color:rgb(0, 123, 139);
+}
+head{
+    font-size:48;
 }
